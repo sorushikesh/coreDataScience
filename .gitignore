@@ -58,7 +58,6 @@ data/processed/
 reports/
 reports/figures/
 *.log
-*.txt
 *.pdf
 *.png
 *.svg
@@ -98,7 +97,7 @@ mlflow.log
 # -----------------------------------------------------------------------------
 kaggle.json
 /input/
-/working/
+working/
 __notebook__.ipynb
 __output__/
 
