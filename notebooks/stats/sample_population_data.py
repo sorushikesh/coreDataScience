@@ -1,25 +1,23 @@
-# ## Population
+# Population
 # The entire group you want to study.
 #
-# - Denoted by: **N** (size), **μ** (mean), **σ** (std dev)
+# - Denoted by: N (size), μ (mean), σ (std dev)
 # - Example: All students in a country
 #
-# ## Sample
+# Sample
 # A subset selected from the population for analysis.
 #
-# - Denoted by: **n** (size), **x̄** (mean), **s** (std dev)
+# - Denoted by: n (size), x̄ (mean), s (std dev)
 # - Example: 100 students from 5 universities
+
+
 #
-# ---
-#
-# ## Why Sampling?
+# Why Sampling?
 # - Cost-effective
 # - Time-saving
 # - Often it's impossible to observe the whole population
-#
-# ---
-#
-# ## Key Differences
+
+# Key Differences
 #
 # | Feature            | Population                   | Sample                        |
 # |--------------------|------------------------------|-------------------------------|
@@ -28,8 +26,7 @@
 # | Notation (std dev) | σ                            | s                             |
 # | Measurement        | Parameter                    | Statistic                     |
 # | Accuracy           | Exact (if measurable)         | Approximation                 |
-#
-# ---
+
 
 import numpy as np
 import pandas as pd
